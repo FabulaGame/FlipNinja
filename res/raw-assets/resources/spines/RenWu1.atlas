@@ -1,0 +1,272 @@
+
+RenWu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_Yan1
+  rotate: false
+  xy: 2, 758
+  size: 294, 257
+  orig: 294, 257
+  offset: 0, 0
+  index: -1
+D_Yan2
+  rotate: false
+  xy: 2, 499
+  size: 294, 257
+  orig: 294, 257
+  offset: 0, 0
+  index: -1
+D_Yan3
+  rotate: false
+  xy: 298, 758
+  size: 294, 257
+  orig: 294, 257
+  offset: 0, 0
+  index: -1
+D_Yan4
+  rotate: false
+  xy: 2, 240
+  size: 294, 257
+  orig: 294, 257
+  offset: 0, 0
+  index: -1
+D_Yan5
+  rotate: false
+  xy: 298, 499
+  size: 294, 257
+  orig: 294, 257
+  offset: 0, 0
+  index: -1
+Down_1
+  rotate: false
+  xy: 123, 156
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+Down_2
+  rotate: false
+  xy: 298, 295
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+Down_3
+  rotate: false
+  xy: 419, 415
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+Down_4
+  rotate: false
+  xy: 795, 933
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+Down_5
+  rotate: false
+  xy: 907, 933
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+L_DaTui
+  rotate: true
+  xy: 674, 849
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+L_Jiao
+  rotate: false
+  xy: 594, 536
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+L_ShangBi
+  rotate: false
+  xy: 645, 706
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+L_Shou
+  rotate: false
+  xy: 621, 576
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+L_Shou2
+  rotate: false
+  xy: 343, 253
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+L_XiaoTui
+  rotate: true
+  xy: 123, 123
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+L_xiabi
+  rotate: false
+  xy: 838, 910
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+R_DaTui
+  rotate: false
+  xy: 82, 74
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+R_Jiao
+  rotate: false
+  xy: 466, 389
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+R_ShangBi
+  rotate: false
+  xy: 82, 53
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+R_XiaoTui
+  rotate: false
+  xy: 419, 386
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+R_xiaobi
+  rotate: false
+  xy: 343, 271
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+ShenTi_Shang
+  rotate: false
+  xy: 594, 548
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+ShenTi_Yao
+  rotate: false
+  xy: 674, 822
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+ShenTi_xia
+  rotate: true
+  xy: 166, 140
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 235, 162
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+TouFa
+  rotate: false
+  xy: 298, 250
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+skin_02/L_XiaoTui_02
+  rotate: true
+  xy: 795, 900
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+skin_02/R_XiaoTui_02
+  rotate: true
+  xy: 645, 732
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+skin_02/Tou_02
+  rotate: false
+  xy: 594, 587
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+skin_03/Tou_03
+  rotate: false
+  xy: 531, 421
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_01
+  rotate: false
+  xy: 594, 779
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_02
+  rotate: false
+  xy: 715, 899
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_03
+  rotate: false
+  xy: 2, 2
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_04
+  rotate: false
+  xy: 594, 897
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_05
+  rotate: false
+  xy: 2, 120
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_06
+  rotate: false
+  xy: 298, 379
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_07
+  rotate: true
+  xy: 594, 665
+  size: 112, 49
+  orig: 112, 49
+  offset: 0, 0
+  index: -1

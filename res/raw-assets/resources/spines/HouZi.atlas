@@ -1,0 +1,153 @@
+
+HouZi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HouZi_L_Jiao
+  rotate: false
+  xy: 1004, 213
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+HouZi_L_ShangBi
+  rotate: false
+  xy: 71, 30
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+HouZi_L_ShangBi2
+  rotate: true
+  xy: 842, 29
+  size: 105, 131
+  orig: 105, 131
+  offset: 0, 0
+  index: -1
+HouZi_L_Tui
+  rotate: false
+  xy: 965, 212
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+HouZi_L_XiaoBi
+  rotate: false
+  xy: 2, 2
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+HouZi_R_Jiao
+  rotate: false
+  xy: 965, 159
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+HouZi_R_ShangBi
+  rotate: false
+  xy: 36, 5
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+HouZi_R_Shou
+  rotate: false
+  xy: 991, 190
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+HouZi_R_Tui
+  rotate: false
+  xy: 71, 55
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+HouZi_R_XiaoBi
+  rotate: true
+  xy: 105, 33
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+HouZi_ShenTi_Shang
+  rotate: false
+  xy: 965, 178
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+HouZi_ShenTi_Zhong
+  rotate: false
+  xy: 1004, 235
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+HouZi_Tou
+  rotate: false
+  xy: 2, 23
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+HouZi_Yao
+  rotate: false
+  xy: 115, 63
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Hou_Yan_1
+  rotate: false
+  xy: 2, 92
+  size: 138, 162
+  orig: 138, 162
+  offset: 0, 0
+  index: -1
+Hou_Yan_2
+  rotate: false
+  xy: 142, 92
+  size: 138, 162
+  orig: 138, 162
+  offset: 0, 0
+  index: -1
+Hou_Yan_3
+  rotate: false
+  xy: 282, 92
+  size: 138, 162
+  orig: 138, 162
+  offset: 0, 0
+  index: -1
+Hou_Yan_4
+  rotate: false
+  xy: 422, 92
+  size: 138, 162
+  orig: 138, 162
+  offset: 0, 0
+  index: -1
+Hou_Yan_5
+  rotate: false
+  xy: 562, 92
+  size: 138, 162
+  orig: 138, 162
+  offset: 0, 0
+  index: -1
+Hou_Yan_6
+  rotate: false
+  xy: 702, 92
+  size: 138, 162
+  orig: 138, 162
+  offset: 0, 0
+  index: -1
+ShouLiJian
+  rotate: false
+  xy: 842, 136
+  size: 121, 118
+  orig: 121, 118
+  offset: 0, 0
+  index: -1
